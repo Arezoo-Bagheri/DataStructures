@@ -1,0 +1,15 @@
+D:\DataStructures\DataStructures\Arrays\BinarySearch\Arrays.BinarySearch\bin\Debug\net8.0\Arrays.BinarySearch.exe
+D:\DataStructures\DataStructures\Arrays\BinarySearch\Arrays.BinarySearch\bin\Debug\net8.0\Arrays.BinarySearch.deps.json
+D:\DataStructures\DataStructures\Arrays\BinarySearch\Arrays.BinarySearch\bin\Debug\net8.0\Arrays.BinarySearch.runtimeconfig.json
+D:\DataStructures\DataStructures\Arrays\BinarySearch\Arrays.BinarySearch\bin\Debug\net8.0\Arrays.BinarySearch.dll
+D:\DataStructures\DataStructures\Arrays\BinarySearch\Arrays.BinarySearch\bin\Debug\net8.0\Arrays.BinarySearch.pdb
+D:\DataStructures\DataStructures\Arrays\BinarySearch\Arrays.BinarySearch\obj\Debug\net8.0\Arrays.BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataStructures\DataStructures\Arrays\BinarySearch\Arrays.BinarySearch\obj\Debug\net8.0\Arrays.BinarySearch.AssemblyInfoInputs.cache
+D:\DataStructures\DataStructures\Arrays\BinarySearch\Arrays.BinarySearch\obj\Debug\net8.0\Arrays.BinarySearch.AssemblyInfo.cs
+D:\DataStructures\DataStructures\Arrays\BinarySearch\Arrays.BinarySearch\obj\Debug\net8.0\Arrays.BinarySearch.csproj.CoreCompileInputs.cache
+D:\DataStructures\DataStructures\Arrays\BinarySearch\Arrays.BinarySearch\obj\Debug\net8.0\Arrays.BinarySearch.sourcelink.json
+D:\DataStructures\DataStructures\Arrays\BinarySearch\Arrays.BinarySearch\obj\Debug\net8.0\Arrays.BinarySearch.dll
+D:\DataStructures\DataStructures\Arrays\BinarySearch\Arrays.BinarySearch\obj\Debug\net8.0\refint\Arrays.BinarySearch.dll
+D:\DataStructures\DataStructures\Arrays\BinarySearch\Arrays.BinarySearch\obj\Debug\net8.0\Arrays.BinarySearch.pdb
+D:\DataStructures\DataStructures\Arrays\BinarySearch\Arrays.BinarySearch\obj\Debug\net8.0\Arrays.BinarySearch.genruntimeconfig.cache
+D:\DataStructures\DataStructures\Arrays\BinarySearch\Arrays.BinarySearch\obj\Debug\net8.0\ref\Arrays.BinarySearch.dll

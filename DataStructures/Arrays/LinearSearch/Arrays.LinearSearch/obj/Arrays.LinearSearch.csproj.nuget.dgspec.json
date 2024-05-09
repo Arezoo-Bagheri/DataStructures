@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Project\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\Arrays.LinearSearch.csproj": {}
+    "D:\\DataStructures\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\Arrays.LinearSearch.csproj": {}
   },
   "projects": {
-    "E:\\Project\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\Arrays.LinearSearch.csproj": {
+    "D:\\DataStructures\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\Arrays.LinearSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Project\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\Arrays.LinearSearch.csproj",
+        "projectUniqueName": "D:\\DataStructures\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\Arrays.LinearSearch.csproj",
         "projectName": "Arrays.LinearSearch",
-        "projectPath": "E:\\Project\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\Arrays.LinearSearch.csproj",
+        "projectPath": "D:\\DataStructures\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\Arrays.LinearSearch.csproj",
         "packagesPath": "C:\\Users\\Arezo\\.nuget\\packages\\",
-        "outputPath": "E:\\Project\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\obj\\",
+        "outputPath": "D:\\DataStructures\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,13 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Project\\DataStructures\\",
+  "WorkspaceRootPath": "D:\\DataStructures\\DataStructures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DF16AC8-80E9-403F-9F16-C2BD9E0EE74E}|Arrays\\LinearSearch\\Arrays.LinearSearch\\Arrays.LinearSearch.csproj|e:\\project\\datastructures\\arrays\\linearsearch\\arrays.linearsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8A3D0E12-AA67-48E7-83EC-2977C490307F}|Arrays\\BinarySearch\\Arrays.BinarySearch\\Arrays.BinarySearch.csproj|d:\\datastructures\\datastructures\\arrays\\binarysearch\\arrays.binarysearch\\binarysearchexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3D0E12-AA67-48E7-83EC-2977C490307F}|Arrays\\BinarySearch\\Arrays.BinarySearch\\Arrays.BinarySearch.csproj|solutionrelative:arrays\\binarysearch\\arrays.binarysearch\\binarysearchexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A3D0E12-AA67-48E7-83EC-2977C490307F}|Arrays\\BinarySearch\\Arrays.BinarySearch\\Arrays.BinarySearch.csproj|d:\\datastructures\\datastructures\\arrays\\binarysearch\\arrays.binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A3D0E12-AA67-48E7-83EC-2977C490307F}|Arrays\\BinarySearch\\Arrays.BinarySearch\\Arrays.BinarySearch.csproj|solutionrelative:arrays\\binarysearch\\arrays.binarysearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DF16AC8-80E9-403F-9F16-C2BD9E0EE74E}|Arrays\\LinearSearch\\Arrays.LinearSearch\\Arrays.LinearSearch.csproj|d:\\datastructures\\datastructures\\arrays\\linearsearch\\arrays.linearsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DF16AC8-80E9-403F-9F16-C2BD9E0EE74E}|Arrays\\LinearSearch\\Arrays.LinearSearch\\Arrays.LinearSearch.csproj|solutionrelative:arrays\\linearsearch\\arrays.linearsearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF16AC8-80E9-403F-9F16-C2BD9E0EE74E}|Arrays\\LinearSearch\\Arrays.LinearSearch\\Arrays.LinearSearch.csproj|e:\\project\\datastructures\\arrays\\linearsearch\\arrays.linearsearch\\linearsearchexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7DF16AC8-80E9-403F-9F16-C2BD9E0EE74E}|Arrays\\LinearSearch\\Arrays.LinearSearch\\Arrays.LinearSearch.csproj|d:\\datastructures\\datastructures\\arrays\\linearsearch\\arrays.linearsearch\\linearsearchexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DF16AC8-80E9-403F-9F16-C2BD9E0EE74E}|Arrays\\LinearSearch\\Arrays.LinearSearch\\Arrays.LinearSearch.csproj|solutionrelative:arrays\\linearsearch\\arrays.linearsearch\\linearsearchexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,11 +38,37 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinarySearchExample.cs",
+              "DocumentMoniker": "D:\\DataStructures\\DataStructures\\Arrays\\BinarySearch\\Arrays.BinarySearch\\BinarySearchExample.cs",
+              "RelativeDocumentMoniker": "Arrays\\BinarySearch\\Arrays.BinarySearch\\BinarySearchExample.cs",
+              "ToolTip": "D:\\DataStructures\\DataStructures\\Arrays\\BinarySearch\\Arrays.BinarySearch\\BinarySearchExample.cs",
+              "RelativeToolTip": "Arrays\\BinarySearch\\Arrays.BinarySearch\\BinarySearchExample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:55:16.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DataStructures\\DataStructures\\Arrays\\BinarySearch\\Arrays.BinarySearch\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\BinarySearch\\Arrays.BinarySearch\\Program.cs",
+              "ToolTip": "D:\\DataStructures\\DataStructures\\Arrays\\BinarySearch\\Arrays.BinarySearch\\Program.cs",
+              "RelativeToolTip": "Arrays\\BinarySearch\\Arrays.BinarySearch\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T08:54:18.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LinearSearchExample.cs",
-              "DocumentMoniker": "E:\\Project\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\LinearSearchExample.cs",
+              "DocumentMoniker": "D:\\DataStructures\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\LinearSearchExample.cs",
               "RelativeDocumentMoniker": "Arrays\\LinearSearch\\Arrays.LinearSearch\\LinearSearchExample.cs",
-              "ToolTip": "E:\\Project\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\LinearSearchExample.cs",
+              "ToolTip": "D:\\DataStructures\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\LinearSearchExample.cs",
               "RelativeToolTip": "Arrays\\LinearSearch\\Arrays.LinearSearch\\LinearSearchExample.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,13 +77,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Project\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\Program.cs",
+              "DocumentMoniker": "D:\\DataStructures\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\Program.cs",
               "RelativeDocumentMoniker": "Arrays\\LinearSearch\\Arrays.LinearSearch\\Program.cs",
-              "ToolTip": "E:\\Project\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\Program.cs",
+              "ToolTip": "D:\\DataStructures\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\Program.cs",
               "RelativeToolTip": "Arrays\\LinearSearch\\Arrays.LinearSearch\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T07:20:19.34Z",
               "EditorCaption": ""

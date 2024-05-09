@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Arrays.LinearSearch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a34748edb93d1e92c23648a4a0655be727ee31f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Arrays.LinearSearch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Arrays.LinearSearch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
