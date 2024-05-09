@@ -1,0 +1,14 @@
+E:\Project\DataStructures\Arrays\LinearSearch\Arrays.LinearSearch\bin\Debug\net8.0\Arrays.LinearSearch.exe
+E:\Project\DataStructures\Arrays\LinearSearch\Arrays.LinearSearch\bin\Debug\net8.0\Arrays.LinearSearch.deps.json
+E:\Project\DataStructures\Arrays\LinearSearch\Arrays.LinearSearch\bin\Debug\net8.0\Arrays.LinearSearch.runtimeconfig.json
+E:\Project\DataStructures\Arrays\LinearSearch\Arrays.LinearSearch\bin\Debug\net8.0\Arrays.LinearSearch.dll
+E:\Project\DataStructures\Arrays\LinearSearch\Arrays.LinearSearch\bin\Debug\net8.0\Arrays.LinearSearch.pdb
+E:\Project\DataStructures\Arrays\LinearSearch\Arrays.LinearSearch\obj\Debug\net8.0\Arrays.LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\DataStructures\Arrays\LinearSearch\Arrays.LinearSearch\obj\Debug\net8.0\Arrays.LinearSearch.AssemblyInfoInputs.cache
+E:\Project\DataStructures\Arrays\LinearSearch\Arrays.LinearSearch\obj\Debug\net8.0\Arrays.LinearSearch.AssemblyInfo.cs
+E:\Project\DataStructures\Arrays\LinearSearch\Arrays.LinearSearch\obj\Debug\net8.0\Arrays.LinearSearch.csproj.CoreCompileInputs.cache
+E:\Project\DataStructures\Arrays\LinearSearch\Arrays.LinearSearch\obj\Debug\net8.0\Arrays.LinearSearch.dll
+E:\Project\DataStructures\Arrays\LinearSearch\Arrays.LinearSearch\obj\Debug\net8.0\refint\Arrays.LinearSearch.dll
+E:\Project\DataStructures\Arrays\LinearSearch\Arrays.LinearSearch\obj\Debug\net8.0\Arrays.LinearSearch.pdb
+E:\Project\DataStructures\Arrays\LinearSearch\Arrays.LinearSearch\obj\Debug\net8.0\Arrays.LinearSearch.genruntimeconfig.cache
+E:\Project\DataStructures\Arrays\LinearSearch\Arrays.LinearSearch\obj\Debug\net8.0\ref\Arrays.LinearSearch.dll
