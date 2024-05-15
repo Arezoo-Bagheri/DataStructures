@@ -1,0 +1,15 @@
+D:\DataStructures\DataStructures\Arrays\InsertInUnsortedArray\Arrays.InsertInUnsortedArray\bin\Debug\net8.0\Arrays.InsertInUnsortedArray.exe
+D:\DataStructures\DataStructures\Arrays\InsertInUnsortedArray\Arrays.InsertInUnsortedArray\bin\Debug\net8.0\Arrays.InsertInUnsortedArray.deps.json
+D:\DataStructures\DataStructures\Arrays\InsertInUnsortedArray\Arrays.InsertInUnsortedArray\bin\Debug\net8.0\Arrays.InsertInUnsortedArray.runtimeconfig.json
+D:\DataStructures\DataStructures\Arrays\InsertInUnsortedArray\Arrays.InsertInUnsortedArray\bin\Debug\net8.0\Arrays.InsertInUnsortedArray.dll
+D:\DataStructures\DataStructures\Arrays\InsertInUnsortedArray\Arrays.InsertInUnsortedArray\bin\Debug\net8.0\Arrays.InsertInUnsortedArray.pdb
+D:\DataStructures\DataStructures\Arrays\InsertInUnsortedArray\Arrays.InsertInUnsortedArray\obj\Debug\net8.0\Arrays.InsertInUnsortedArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataStructures\DataStructures\Arrays\InsertInUnsortedArray\Arrays.InsertInUnsortedArray\obj\Debug\net8.0\Arrays.InsertInUnsortedArray.AssemblyInfoInputs.cache
+D:\DataStructures\DataStructures\Arrays\InsertInUnsortedArray\Arrays.InsertInUnsortedArray\obj\Debug\net8.0\Arrays.InsertInUnsortedArray.AssemblyInfo.cs
+D:\DataStructures\DataStructures\Arrays\InsertInUnsortedArray\Arrays.InsertInUnsortedArray\obj\Debug\net8.0\Arrays.InsertInUnsortedArray.csproj.CoreCompileInputs.cache
+D:\DataStructures\DataStructures\Arrays\InsertInUnsortedArray\Arrays.InsertInUnsortedArray\obj\Debug\net8.0\Arrays.InsertInUnsortedArray.sourcelink.json
+D:\DataStructures\DataStructures\Arrays\InsertInUnsortedArray\Arrays.InsertInUnsortedArray\obj\Debug\net8.0\Arrays.InsertInUnsortedArray.dll
+D:\DataStructures\DataStructures\Arrays\InsertInUnsortedArray\Arrays.InsertInUnsortedArray\obj\Debug\net8.0\refint\Arrays.InsertInUnsortedArray.dll
+D:\DataStructures\DataStructures\Arrays\InsertInUnsortedArray\Arrays.InsertInUnsortedArray\obj\Debug\net8.0\Arrays.InsertInUnsortedArray.pdb
+D:\DataStructures\DataStructures\Arrays\InsertInUnsortedArray\Arrays.InsertInUnsortedArray\obj\Debug\net8.0\Arrays.InsertInUnsortedArray.genruntimeconfig.cache
+D:\DataStructures\DataStructures\Arrays\InsertInUnsortedArray\Arrays.InsertInUnsortedArray\obj\Debug\net8.0\ref\Arrays.InsertInUnsortedArray.dll

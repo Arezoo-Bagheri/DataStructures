@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Arrays.BinarySearch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a34748edb93d1e92c23648a4a0655be727ee31f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42655d8fcb0b83f6f29f96be2918999bf172ad12")]
 [assembly: System.Reflection.AssemblyProductAttribute("Arrays.BinarySearch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Arrays.BinarySearch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
