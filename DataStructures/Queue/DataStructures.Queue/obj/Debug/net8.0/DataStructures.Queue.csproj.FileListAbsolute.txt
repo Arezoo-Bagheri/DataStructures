@@ -1,0 +1,15 @@
+D:\DataStructures\DataStructures\Queue\DataStructures.Queue\bin\Debug\net8.0\DataStructures.Queue.exe
+D:\DataStructures\DataStructures\Queue\DataStructures.Queue\bin\Debug\net8.0\DataStructures.Queue.deps.json
+D:\DataStructures\DataStructures\Queue\DataStructures.Queue\bin\Debug\net8.0\DataStructures.Queue.runtimeconfig.json
+D:\DataStructures\DataStructures\Queue\DataStructures.Queue\bin\Debug\net8.0\DataStructures.Queue.dll
+D:\DataStructures\DataStructures\Queue\DataStructures.Queue\bin\Debug\net8.0\DataStructures.Queue.pdb
+D:\DataStructures\DataStructures\Queue\DataStructures.Queue\obj\Debug\net8.0\DataStructures.Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataStructures\DataStructures\Queue\DataStructures.Queue\obj\Debug\net8.0\DataStructures.Queue.AssemblyInfoInputs.cache
+D:\DataStructures\DataStructures\Queue\DataStructures.Queue\obj\Debug\net8.0\DataStructures.Queue.AssemblyInfo.cs
+D:\DataStructures\DataStructures\Queue\DataStructures.Queue\obj\Debug\net8.0\DataStructures.Queue.csproj.CoreCompileInputs.cache
+D:\DataStructures\DataStructures\Queue\DataStructures.Queue\obj\Debug\net8.0\DataStructures.Queue.sourcelink.json
+D:\DataStructures\DataStructures\Queue\DataStructures.Queue\obj\Debug\net8.0\DataStructures.Queue.dll
+D:\DataStructures\DataStructures\Queue\DataStructures.Queue\obj\Debug\net8.0\refint\DataStructures.Queue.dll
+D:\DataStructures\DataStructures\Queue\DataStructures.Queue\obj\Debug\net8.0\DataStructures.Queue.pdb
+D:\DataStructures\DataStructures\Queue\DataStructures.Queue\obj\Debug\net8.0\DataStructures.Queue.genruntimeconfig.cache
+D:\DataStructures\DataStructures\Queue\DataStructures.Queue\obj\Debug\net8.0\ref\DataStructures.Queue.dll
