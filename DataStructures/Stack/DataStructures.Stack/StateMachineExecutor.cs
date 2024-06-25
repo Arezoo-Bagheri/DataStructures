@@ -2,16 +2,16 @@
 {
     public class StateMachineExecutor : IStateMachineActions
     {
-        private StateMachine stateMachine;
+        private StateMachine _stateMachine;
 
-        public StateMachineExecutor(StateMachine sm)
+        public StateMachineExecutor(StateMachine stateMachine)
         {
-            stateMachine = sm;
+            _stateMachine = stateMachine;
         }
 
         public void ExecuteAction(string action)
         {
-            Console.WriteLine($"Performing action '{action}' in state {stateMachine.currentState}");
+            Console.WriteLine($"Performing action '{action}' in state {_stateMachine.currentState}");
         }
     }
 }

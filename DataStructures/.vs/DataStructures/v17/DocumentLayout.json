@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\DataStructures\\DataStructures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7672B286-FC15-40A1-A9B2-D25EA5AD899C}|Stack\\DataStructures.Stack\\DataStructures.Stack.csproj|d:\\datastructures\\datastructures\\stack\\datastructures.stack\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7672B286-FC15-40A1-A9B2-D25EA5AD899C}|Stack\\DataStructures.Stack\\DataStructures.Stack.csproj|solutionrelative:stack\\datastructures.stack\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7672B286-FC15-40A1-A9B2-D25EA5AD899C}|Stack\\DataStructures.Stack\\DataStructures.Stack.csproj|d:\\datastructures\\datastructures\\stack\\datastructures.stack\\statemachineexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7672B286-FC15-40A1-A9B2-D25EA5AD899C}|Stack\\DataStructures.Stack\\DataStructures.Stack.csproj|solutionrelative:stack\\datastructures.stack\\statemachineexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672B286-FC15-40A1-A9B2-D25EA5AD899C}|Stack\\DataStructures.Stack\\DataStructures.Stack.csproj|d:\\datastructures\\datastructures\\stack\\datastructures.stack\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672B286-FC15-40A1-A9B2-D25EA5AD899C}|Stack\\DataStructures.Stack\\DataStructures.Stack.csproj|solutionrelative:stack\\datastructures.stack\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7672B286-FC15-40A1-A9B2-D25EA5AD899C}|Stack\\DataStructures.Stack\\DataStructures.Stack.csproj|d:\\datastructures\\datastructures\\stack\\datastructures.stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,23 +82,25 @@
               "RelativeToolTip": "Stack\\DataStructures.Stack\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T03:40:02.35Z"
+              "WhenOpened": "2024-06-25T03:40:02.35Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "StateMachineExecutor.cs",
               "DocumentMoniker": "D:\\DataStructures\\DataStructures\\Stack\\DataStructures.Stack\\StateMachineExecutor.cs",
               "RelativeDocumentMoniker": "Stack\\DataStructures.Stack\\StateMachineExecutor.cs",
               "ToolTip": "D:\\DataStructures\\DataStructures\\Stack\\DataStructures.Stack\\StateMachineExecutor.cs",
               "RelativeToolTip": "Stack\\DataStructures.Stack\\StateMachineExecutor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T03:35:54.723Z"
+              "WhenOpened": "2024-06-25T03:35:54.723Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StateMachine.cs",
               "DocumentMoniker": "D:\\DataStructures\\DataStructures\\Stack\\DataStructures.Stack\\StateMachine.cs",
               "RelativeDocumentMoniker": "Stack\\DataStructures.Stack\\StateMachine.cs",
@@ -119,7 +121,8 @@
               "RelativeToolTip": "Stack\\DataStructures.Stack\\IStateMachineActions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T03:33:08.138Z"
+              "WhenOpened": "2024-06-25T03:33:08.138Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

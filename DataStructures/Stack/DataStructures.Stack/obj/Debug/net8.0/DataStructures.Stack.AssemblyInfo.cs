@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataStructures.Stack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac956575ef949c907790e72422119088090b2fd3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2038897c2824197191da038c138b217f9aa76a14")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataStructures.Stack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataStructures.Stack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

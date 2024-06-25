@@ -1,0 +1,15 @@
+D:\DataStructures\DataStructures\Stack\DataStructures.Stack\bin\Debug\net8.0\DataStructures.Stack.exe
+D:\DataStructures\DataStructures\Stack\DataStructures.Stack\bin\Debug\net8.0\DataStructures.Stack.deps.json
+D:\DataStructures\DataStructures\Stack\DataStructures.Stack\bin\Debug\net8.0\DataStructures.Stack.runtimeconfig.json
+D:\DataStructures\DataStructures\Stack\DataStructures.Stack\bin\Debug\net8.0\DataStructures.Stack.dll
+D:\DataStructures\DataStructures\Stack\DataStructures.Stack\bin\Debug\net8.0\DataStructures.Stack.pdb
+D:\DataStructures\DataStructures\Stack\DataStructures.Stack\obj\Debug\net8.0\DataStructures.Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\DataStructures\DataStructures\Stack\DataStructures.Stack\obj\Debug\net8.0\DataStructures.Stack.AssemblyInfoInputs.cache
+D:\DataStructures\DataStructures\Stack\DataStructures.Stack\obj\Debug\net8.0\DataStructures.Stack.AssemblyInfo.cs
+D:\DataStructures\DataStructures\Stack\DataStructures.Stack\obj\Debug\net8.0\DataStructures.Stack.csproj.CoreCompileInputs.cache
+D:\DataStructures\DataStructures\Stack\DataStructures.Stack\obj\Debug\net8.0\DataStructures.Stack.sourcelink.json
+D:\DataStructures\DataStructures\Stack\DataStructures.Stack\obj\Debug\net8.0\DataStructures.Stack.dll
+D:\DataStructures\DataStructures\Stack\DataStructures.Stack\obj\Debug\net8.0\refint\DataStructures.Stack.dll
+D:\DataStructures\DataStructures\Stack\DataStructures.Stack\obj\Debug\net8.0\DataStructures.Stack.pdb
+D:\DataStructures\DataStructures\Stack\DataStructures.Stack\obj\Debug\net8.0\DataStructures.Stack.genruntimeconfig.cache
+D:\DataStructures\DataStructures\Stack\DataStructures.Stack\obj\Debug\net8.0\ref\DataStructures.Stack.dll
