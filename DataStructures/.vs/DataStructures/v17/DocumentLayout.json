@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "D:\\DataStructures\\DataStructures\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7672B286-FC15-40A1-A9B2-D25EA5AD899C}|Stack\\DataStructures.Stack\\DataStructures.Stack.csproj|d:\\datastructures\\datastructures\\stack\\datastructures.stack\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672B286-FC15-40A1-A9B2-D25EA5AD899C}|Stack\\DataStructures.Stack\\DataStructures.Stack.csproj|solutionrelative:stack\\datastructures.stack\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672B286-FC15-40A1-A9B2-D25EA5AD899C}|Stack\\DataStructures.Stack\\DataStructures.Stack.csproj|d:\\datastructures\\datastructures\\stack\\datastructures.stack\\statemachineexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672B286-FC15-40A1-A9B2-D25EA5AD899C}|Stack\\DataStructures.Stack\\DataStructures.Stack.csproj|solutionrelative:stack\\datastructures.stack\\statemachineexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672B286-FC15-40A1-A9B2-D25EA5AD899C}|Stack\\DataStructures.Stack\\DataStructures.Stack.csproj|d:\\datastructures\\datastructures\\stack\\datastructures.stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672B286-FC15-40A1-A9B2-D25EA5AD899C}|Stack\\DataStructures.Stack\\DataStructures.Stack.csproj|solutionrelative:stack\\datastructures.stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7672B286-FC15-40A1-A9B2-D25EA5AD899C}|Stack\\DataStructures.Stack\\DataStructures.Stack.csproj|d:\\datastructures\\datastructures\\stack\\datastructures.stack\\istatemachineactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7672B286-FC15-40A1-A9B2-D25EA5AD899C}|Stack\\DataStructures.Stack\\DataStructures.Stack.csproj|solutionrelative:stack\\datastructures.stack\\istatemachineactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A44BE85A-AF7B-4322-9056-E8F8998E818A}|Queue\\DataStructures.Queue\\DataStructures.Queue.csproj|d:\\datastructures\\datastructures\\queue\\datastructures.queue\\dequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A44BE85A-AF7B-4322-9056-E8F8998E818A}|Queue\\DataStructures.Queue\\DataStructures.Queue.csproj|solutionrelative:queue\\datastructures.queue\\dequeue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +74,56 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DataStructures\\DataStructures\\Stack\\DataStructures.Stack\\Program.cs",
+              "RelativeDocumentMoniker": "Stack\\DataStructures.Stack\\Program.cs",
+              "ToolTip": "D:\\DataStructures\\DataStructures\\Stack\\DataStructures.Stack\\Program.cs",
+              "RelativeToolTip": "Stack\\DataStructures.Stack\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:40:02.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StateMachineExecutor.cs",
+              "DocumentMoniker": "D:\\DataStructures\\DataStructures\\Stack\\DataStructures.Stack\\StateMachineExecutor.cs",
+              "RelativeDocumentMoniker": "Stack\\DataStructures.Stack\\StateMachineExecutor.cs",
+              "ToolTip": "D:\\DataStructures\\DataStructures\\Stack\\DataStructures.Stack\\StateMachineExecutor.cs",
+              "RelativeToolTip": "Stack\\DataStructures.Stack\\StateMachineExecutor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:35:54.723Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StateMachine.cs",
+              "DocumentMoniker": "D:\\DataStructures\\DataStructures\\Stack\\DataStructures.Stack\\StateMachine.cs",
+              "RelativeDocumentMoniker": "Stack\\DataStructures.Stack\\StateMachine.cs",
+              "ToolTip": "D:\\DataStructures\\DataStructures\\Stack\\DataStructures.Stack\\StateMachine.cs",
+              "RelativeToolTip": "Stack\\DataStructures.Stack\\StateMachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:34:24.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStateMachineActions.cs",
+              "DocumentMoniker": "D:\\DataStructures\\DataStructures\\Stack\\DataStructures.Stack\\IStateMachineActions.cs",
+              "RelativeDocumentMoniker": "Stack\\DataStructures.Stack\\IStateMachineActions.cs",
+              "ToolTip": "D:\\DataStructures\\DataStructures\\Stack\\DataStructures.Stack\\IStateMachineActions.cs",
+              "RelativeToolTip": "Stack\\DataStructures.Stack\\IStateMachineActions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:33:08.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Dequeue.cs",
               "DocumentMoniker": "D:\\DataStructures\\DataStructures\\Queue\\DataStructures.Queue\\Dequeue.cs",
               "RelativeDocumentMoniker": "Queue\\DataStructures.Queue\\Dequeue.cs",
@@ -66,12 +131,11 @@
               "RelativeToolTip": "Queue\\DataStructures.Queue\\Dequeue.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T06:29:08.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T06:29:08.1Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Enqueue.cs",
               "DocumentMoniker": "D:\\DataStructures\\DataStructures\\Queue\\DataStructures.Queue\\Enqueue.cs",
               "RelativeDocumentMoniker": "Queue\\DataStructures.Queue\\Enqueue.cs",
@@ -79,12 +143,11 @@
               "RelativeToolTip": "Queue\\DataStructures.Queue\\Enqueue.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T06:09:31.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T06:09:31.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DataStructures\\DataStructures\\Queue\\DataStructures.Queue\\Program.cs",
               "RelativeDocumentMoniker": "Queue\\DataStructures.Queue\\Program.cs",
@@ -92,12 +155,11 @@
               "RelativeToolTip": "Queue\\DataStructures.Queue\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T06:07:41.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T06:07:41.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "UnsortedArrayExample.cs",
               "DocumentMoniker": "D:\\DataStructures\\DataStructures\\Arrays\\InsertInUnsortedArray\\Arrays.InsertInUnsortedArray\\UnsortedArrayExample.cs",
               "RelativeDocumentMoniker": "Arrays\\InsertInUnsortedArray\\Arrays.InsertInUnsortedArray\\UnsortedArrayExample.cs",
@@ -109,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DataStructures\\DataStructures\\Arrays\\InsertInUnsortedArray\\Arrays.InsertInUnsortedArray\\Program.cs",
               "RelativeDocumentMoniker": "Arrays\\InsertInUnsortedArray\\Arrays.InsertInUnsortedArray\\Program.cs",
@@ -117,12 +179,11 @@
               "RelativeToolTip": "Arrays\\InsertInUnsortedArray\\Arrays.InsertInUnsortedArray\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T18:28:32.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-15T18:28:32.501Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "BinarySearchExample.cs",
               "DocumentMoniker": "D:\\DataStructures\\DataStructures\\Arrays\\BinarySearch\\Arrays.BinarySearch\\BinarySearchExample.cs",
               "RelativeDocumentMoniker": "Arrays\\BinarySearch\\Arrays.BinarySearch\\BinarySearchExample.cs",
@@ -130,12 +191,11 @@
               "RelativeToolTip": "Arrays\\BinarySearch\\Arrays.BinarySearch\\BinarySearchExample.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-09T08:55:16.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-09T08:55:16.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DataStructures\\DataStructures\\Arrays\\BinarySearch\\Arrays.BinarySearch\\Program.cs",
               "RelativeDocumentMoniker": "Arrays\\BinarySearch\\Arrays.BinarySearch\\Program.cs",
@@ -147,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "LinearSearchExample.cs",
               "DocumentMoniker": "D:\\DataStructures\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\LinearSearchExample.cs",
               "RelativeDocumentMoniker": "Arrays\\LinearSearch\\Arrays.LinearSearch\\LinearSearchExample.cs",
@@ -159,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\DataStructures\\DataStructures\\Arrays\\LinearSearch\\Arrays.LinearSearch\\Program.cs",
               "RelativeDocumentMoniker": "Arrays\\LinearSearch\\Arrays.LinearSearch\\Program.cs",

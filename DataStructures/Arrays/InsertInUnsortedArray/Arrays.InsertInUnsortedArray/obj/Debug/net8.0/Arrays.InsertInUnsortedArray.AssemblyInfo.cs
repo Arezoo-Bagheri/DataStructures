@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Arrays.InsertInUnsortedArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbf9adda7079aa8b550c7e42834e207bac99ee90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac956575ef949c907790e72422119088090b2fd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Arrays.InsertInUnsortedArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Arrays.InsertInUnsortedArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

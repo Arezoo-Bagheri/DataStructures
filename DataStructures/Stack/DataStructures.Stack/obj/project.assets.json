@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DataStructures\\DataStructures\\Queue\\DataStructures.Queue\\DataStructures.Queue.csproj",
-      "projectName": "DataStructures.Queue",
-      "projectPath": "D:\\DataStructures\\DataStructures\\Queue\\DataStructures.Queue\\DataStructures.Queue.csproj",
+      "projectUniqueName": "D:\\DataStructures\\DataStructures\\Stack\\DataStructures.Stack\\DataStructures.Stack.csproj",
+      "projectName": "DataStructures.Stack",
+      "projectPath": "D:\\DataStructures\\DataStructures\\Stack\\DataStructures.Stack\\DataStructures.Stack.csproj",
       "packagesPath": "C:\\Users\\Arezo\\.nuget\\packages\\",
-      "outputPath": "D:\\DataStructures\\DataStructures\\Queue\\DataStructures.Queue\\obj\\",
+      "outputPath": "D:\\DataStructures\\DataStructures\\Stack\\DataStructures.Stack\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

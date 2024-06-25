@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DataStructures\\DataStructures\\Arrays\\InsertInUnsortedArray\\Arrays.InsertInUnsortedArray\\Arrays.InsertInUnsortedArray.csproj": {}
+    "D:\\DataStructures\\DataStructures\\Stack\\DataStructures.Stack\\DataStructures.Stack.csproj": {}
   },
   "projects": {
-    "D:\\DataStructures\\DataStructures\\Arrays\\InsertInUnsortedArray\\Arrays.InsertInUnsortedArray\\Arrays.InsertInUnsortedArray.csproj": {
+    "D:\\DataStructures\\DataStructures\\Stack\\DataStructures.Stack\\DataStructures.Stack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DataStructures\\DataStructures\\Arrays\\InsertInUnsortedArray\\Arrays.InsertInUnsortedArray\\Arrays.InsertInUnsortedArray.csproj",
-        "projectName": "Arrays.InsertInUnsortedArray",
-        "projectPath": "D:\\DataStructures\\DataStructures\\Arrays\\InsertInUnsortedArray\\Arrays.InsertInUnsortedArray\\Arrays.InsertInUnsortedArray.csproj",
+        "projectUniqueName": "D:\\DataStructures\\DataStructures\\Stack\\DataStructures.Stack\\DataStructures.Stack.csproj",
+        "projectName": "DataStructures.Stack",
+        "projectPath": "D:\\DataStructures\\DataStructures\\Stack\\DataStructures.Stack\\DataStructures.Stack.csproj",
         "packagesPath": "C:\\Users\\Arezo\\.nuget\\packages\\",
-        "outputPath": "D:\\DataStructures\\DataStructures\\Arrays\\InsertInUnsortedArray\\Arrays.InsertInUnsortedArray\\obj\\",
+        "outputPath": "D:\\DataStructures\\DataStructures\\Stack\\DataStructures.Stack\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
